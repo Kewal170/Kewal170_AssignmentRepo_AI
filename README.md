@@ -8,6 +8,7 @@ This repository houses all submissions for AI assignments. Each assignment is or
 - Assignment 1 : Submitted
 - Assignment 2 : Submitted
 - Assignment 3 : Submitted
+- Assignment 4 : Submitted
 
 ## Folder Structure
 - Assignment No/ : Contains files and documentation related to the respective assignment.
